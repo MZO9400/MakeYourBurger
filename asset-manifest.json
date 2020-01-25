@@ -3,8 +3,8 @@
     "static/js/0.31c5b916.chunk.js": "/MakeYourBurger/static/js/0.31c5b916.chunk.js",
     "static/js/0.31c5b916.chunk.js.map": "/MakeYourBurger/static/js/0.31c5b916.chunk.js.map",
     "main.css": "/MakeYourBurger/static/css/main.d6b239ec.chunk.css",
-    "main.js": "/MakeYourBurger/static/js/main.0cd5d949.chunk.js",
-    "main.js.map": "/MakeYourBurger/static/js/main.0cd5d949.chunk.js.map",
+    "main.js": "/MakeYourBurger/static/js/main.93fa5b84.chunk.js",
+    "main.js.map": "/MakeYourBurger/static/js/main.93fa5b84.chunk.js.map",
     "runtime-main.js": "/MakeYourBurger/static/js/runtime-main.2a075ab3.js",
     "runtime-main.js.map": "/MakeYourBurger/static/js/runtime-main.2a075ab3.js.map",
     "static/js/3.b328106e.chunk.js": "/MakeYourBurger/static/js/3.b328106e.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/5.8b8ae4d5.chunk.js": "/MakeYourBurger/static/js/5.8b8ae4d5.chunk.js",
     "static/js/5.8b8ae4d5.chunk.js.map": "/MakeYourBurger/static/js/5.8b8ae4d5.chunk.js.map",
     "index.html": "/MakeYourBurger/index.html",
-    "precache-manifest.11c9ffb07ebac9ed78b634d359957f49.js": "/MakeYourBurger/precache-manifest.11c9ffb07ebac9ed78b634d359957f49.js",
+    "precache-manifest.4ffe54650574b4c6609e69d1e417c22e.js": "/MakeYourBurger/precache-manifest.4ffe54650574b4c6609e69d1e417c22e.js",
     "service-worker.js": "/MakeYourBurger/service-worker.js",
     "static/css/4.9d564d46.chunk.css.map": "/MakeYourBurger/static/css/4.9d564d46.chunk.css.map",
     "static/css/5.d87cb075.chunk.css.map": "/MakeYourBurger/static/css/5.d87cb075.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.2a075ab3.js",
     "static/js/3.b328106e.chunk.js",
     "static/css/main.d6b239ec.chunk.css",
-    "static/js/main.0cd5d949.chunk.js"
+    "static/js/main.93fa5b84.chunk.js"
   ]
 }

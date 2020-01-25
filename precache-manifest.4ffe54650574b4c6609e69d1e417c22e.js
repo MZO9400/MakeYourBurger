@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e17eebd06a5fd40cac8490562a610e9",
+    "revision": "e307645e3b5c08b1c27760cbe70cd229",
     "url": "/MakeYourBurger/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MakeYourBurger/static/css/5.d87cb075.chunk.css"
   },
   {
-    "revision": "15181b66dc1153c1baf9",
+    "revision": "cff67010078c2fd18920",
     "url": "/MakeYourBurger/static/css/main.d6b239ec.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MakeYourBurger/static/js/5.8b8ae4d5.chunk.js"
   },
   {
-    "revision": "15181b66dc1153c1baf9",
-    "url": "/MakeYourBurger/static/js/main.0cd5d949.chunk.js"
+    "revision": "cff67010078c2fd18920",
+    "url": "/MakeYourBurger/static/js/main.93fa5b84.chunk.js"
   },
   {
     "revision": "3ae53cb68205aa0854ae",
